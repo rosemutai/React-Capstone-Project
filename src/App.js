@@ -13,7 +13,7 @@ function App() {
   }, [dispatch]);
 
   return (
-    <div className="App w-full bg-hotPink/60 h-[100%]">
+    <div className="app w-full bg-hotPink/60 h-[100%]">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/:country" element={<CountryDetails />} />
