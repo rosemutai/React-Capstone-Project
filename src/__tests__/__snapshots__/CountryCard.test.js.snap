@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders CardComponent correctly 1`] = `
+<div
+  className="w-full overflow-x-hidden"
+>
+  <h3
+    className="text-center text-lg font-semibold text-white tracking-wider mt-4"
+  >
+    Covid19 Statistics
+  </h3>
+  <div
+    className="w-full my-8"
+  >
+    <form
+      className="search w-10/12 mx-auto flex gap-3"
+      onSubmit={[Function]}
+    >
+      <input
+        className="p-2 rounded-md w-full placeholder:text-gray-300 placeholder:text-sm border border-transparent focus:outline-0 focus:shadow-inner focus:shadow-hotPink"
+        name="search"
+        onChange={[Function]}
+        placeholder="Search by country"
+        type="text"
+        value=""
+      />
+      <button
+        type="submit"
+      >
+        <span
+          className="material-symbols-outlined text-hotPink/60 p-2 rounded-md bg-white "
+        >
+          search
+        </span>
+      </button>
+    </form>
+  </div>
+  <h5
+    className="font-bold tracking-wider text-xs px-2 text-white absolute z-50"
+  >
+    COVID19 ACTIVE CASES BY COUNTRY
+  </h5>
+  <div
+    className="largest-population w-full grid grid-cols-2 px-2 mt-20"
+  />
+</div>
+`;
