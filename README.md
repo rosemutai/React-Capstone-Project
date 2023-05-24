@@ -15,7 +15,7 @@
   - [:hammer\_and\_wrench: Built With ](#hammer_and_wrench-built-with-)
     - [Tech Stack ](#tech-stack-)
   - [Key Features ](#key-features-)
-  - [� Live Demo ](#-live-demo-)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -177,6 +177,7 @@ If you like this project please follow me on github & twitter and also connect o
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 I would like to thank Microverse for this exercise.
+I would like to thank <a href="https://www.behance.net/sakwadesignstudio">Nelson Sakwa</a> for the design
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
