@@ -1,7 +1,7 @@
 import renderer from 'react-test-renderer';
 import { BrowserRouter } from 'react-router-dom';
 import { Provider } from 'react-redux';
-import Home from '../components/Home';
+import CountryCard from '../components/CountryCard';
 import { store } from '../redux/store';
 
 it('renders CardComponent correctly', () => {
@@ -9,7 +9,7 @@ it('renders CardComponent correctly', () => {
     .create(
       <BrowserRouter>
         <Provider store={store}>
-          <Home />
+          <CountryCard />
         </Provider>
 
       </BrowserRouter>,

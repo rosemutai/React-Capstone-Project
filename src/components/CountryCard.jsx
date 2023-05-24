@@ -27,6 +27,6 @@ CountryCard.defaultProps = {
 
 CountryCard.propTypes = {
   country: PropTypes.string.isRequired,
-  active: PropTypes.number,
+  active: PropTypes.string,
 };
 export default CountryCard;
