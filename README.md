@@ -15,6 +15,7 @@
   - [:hammer\_and\_wrench: Built With ](#hammer_and_wrench-built-with-)
     - [Tech Stack ](#tech-stack-)
   - [Key Features ](#key-features-)
+  - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -35,9 +36,9 @@
 
 This project is built with React
 
-**React-Capstone-Project** is a mobile web application to check a list of metrics (numeric values) created making use of React and Redux. The webapp will have several pages:
-- One page, the home page, has a list of items that is filtered by some parameters.
-- The other page for the item details.
+**React-Capstone-Project** is a mobile web application to check a list of metrics (numeric values) created making use of React and Redux. The webapp has two pages:
+- The home page, has a list of countries that can be filtered by country.
+- The second page is the details page, it shows the Covid statistics of a particular country.
 
 ## :hammer_and_wrench: Built With <a name="built-with"></a>
 - React
@@ -72,13 +73,18 @@ This project is built with React
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO
+LIVE DEMO
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://React-Capstone-Project-oin4.onrender.com)
+- [Live Demo Link](https://reactcapstone-project.onrender.com)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+- [Loom Link](https://www.loom.com/share/6fe190ce7cbd4edba0dfb5765c44b541)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- GETTING STARTED -->
 
@@ -170,7 +176,8 @@ If you like this project please follow me on github & twitter and also connect o
 
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank Microverse for this exercise.
+I would like to thank Microverse for this exercise.</br>
+Thanks to <a href="https://www.behance.net/sakwadesignstudio">Nelson Sakwa</a> also for the design
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->

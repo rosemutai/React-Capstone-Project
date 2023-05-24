@@ -2,10 +2,14 @@
 
 module.exports = {
   content: [
-    "./src/**/*.{js,jsx,ts,tsx}",
+    './src/**/*.{js,jsx,ts,tsx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        hotPink: '#fa146199',
+      },
+    },
   },
   plugins: [],
-}
+};
