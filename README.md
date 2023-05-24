@@ -81,7 +81,7 @@ LIVE DEMO
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-- [Loom Link](https://www.loom.com/share/cbf59121ab274218ba4935f3d2f8833f)
+- [Loom Link](https://www.loom.com/share/6fe190ce7cbd4edba0dfb5765c44b541)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
