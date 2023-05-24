@@ -1,20 +1,21 @@
-import renderer from 'react-test-renderer';
+import React from 'react';
 import { BrowserRouter } from 'react-router-dom';
-import { Provider } from 'react-redux';
+import { render, screen } from '@testing-library/react';
+import '@testing-library/jest-dom';
 import CountryCard from '../components/CountryCard';
-import { store } from '../redux/store';
 
-it('renders CardComponent correctly', () => {
-  const tree = renderer
-    .create(
-      <BrowserRouter>
-        <Provider store={store}>
-          <CountryCard />
-        </Provider>
+it('CountryCard renders correctly', () => {
+  const country = 'Kenya';
+  const active = '270';
+  render(
+    <BrowserRouter>
+      <CountryCard country={country} active={active} />
+    </BrowserRouter>,
+  );
 
-      </BrowserRouter>,
+  const countryName = screen.getByText(country);
+  const activeCases = screen.getByText(active);
 
-    )
-    .toJSON();
-  expect(tree).toMatchSnapshot();
+  expect(countryName).toBeInTheDocument();
+  expect(activeCases).toBeInTheDocument();
 });
