@@ -176,8 +176,8 @@ If you like this project please follow me on github & twitter and also connect o
 
 <!-- ACKNOWLEDGEMENTS -->
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-I would like to thank Microverse for this exercise.
-I would like to thank <a href="https://www.behance.net/sakwadesignstudio">Nelson Sakwa</a> for the design
+I would like to thank Microverse for this exercise.</br>
+Thanks to <a href="https://www.behance.net/sakwadesignstudio">Nelson Sakwa</a> also for the design
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
